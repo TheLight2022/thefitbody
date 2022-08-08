@@ -1,0 +1,59 @@
+[
+  {
+    "ID" : "Light_Workout",
+    "Name" : "Light Workout For Beginners",
+    "amh" : "src",
+    "Route" : [
+      {
+        "Time" : 30,
+        "Detail" :[
+          {
+            "Day_1" : [
+              {
+                "Video" : [
+                  {
+                    "id" : "video01",
+                    "link":"link",
+                    "title":"Bài tập đầu tiên"
+                  }
+                ],
+                "diet" :[
+                  {
+                    "id":"bla",
+                    "content" : [
+                      {
+                        "section" : {
+                          "title" : "buổi sáng",
+                          "src" : ["link"],
+                          "content" : "bla bla"
+                        }
+                      },
+                      {
+                        "section" : {
+                          "title" : "buổi trưa",
+                          "src" : ["link"],
+                          "content" : "bla bla"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "Day_2" : [
+              {
+                "Video" : [
+                  {
+                    "id" : "video01",
+                    "link":"link",
+                    "title":"Bài tập đầu tiên"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
