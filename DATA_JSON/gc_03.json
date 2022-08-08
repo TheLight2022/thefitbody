@@ -1,9 +1,15 @@
 [
     {
+<<<<<<< HEAD
+    "ID" : "GC_03",
+    "Name" : "Moderate",
+    "Image" : "",
+=======
     "ID" : "MD_01",
     "Name" : "Workout moderate for skinny person",
     "Image" : "Image/moderate_male/moderate_male01.jpg",
     "Gender": "M",
+>>>>>>> d28434ea51835717b41a614f6168658921350488
     "BMI_max": 18.5,
     "BMI_min": 0,
     "Route" : [
