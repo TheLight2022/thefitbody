@@ -1,0 +1,265 @@
+[
+    {
+    "ID" : "GC_03",
+    "Name" : "Moderate",
+    "Image" : "Image/Moderate_01",
+    "BMI_max": 18.5,
+    "BMI_min": 0,
+    "Route" : [
+        {
+            "Time" : 30,
+            "Detail" :[
+                {
+                    "Day_1" : [
+                        {
+                            "Video" : [
+                                {
+                                    "id" : "video01",
+                                    "link":"link",
+                                    "title":"Bài tập đầu tiên"
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"bla",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["link"],
+                                                "content" : "bla bla"
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["link"],
+                                                "content" : "bla bla"
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["link"],
+                                                "content" : "bla bla"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_2" : [
+                        {
+                            "Video" : [
+                                {
+                                    "id" : "video01",
+                                    "link":"link",
+                                    "title":"Bài tập đầu tiên"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+},{
+    "ID" : "GC_03",
+    "Name" : "Moderate",
+    "Image" : "Image/Moderate_02",
+    "BMI_max": 24.9,
+    "BMI_min": 18.5,
+    "Route" : [
+        {
+            "Time" : 30,
+            "Detail" :[
+                {
+                    "Day_1" : [
+                        {
+                            "Video" : [
+                                {
+                                    "id" : "video01",
+                                    "link":"link",
+                                    "title":"Bài tập đầu tiên"
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"bla",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["link"],
+                                                "content" : "bla bla"
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["link"],
+                                                "content" : "bla bla"
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["link"],
+                                                "content" : "bla bla"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_2" : [
+                        {
+                            "Video" : [
+                                {
+                                    "id" : "video01",
+                                    "link":"link",
+                                    "title":"Bài tập đầu tiên"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+},
+{
+    "ID" : "GC_03",
+    "Name" : "Moderate",
+    "Image" : "Image/Moderate_03",
+    "BMI_max": 29.9,
+    "BMI_min": 25,
+    "Route" : [
+        {
+            "Time" : 30,
+            "Detail" :[
+                {
+                    "Day_1" : [
+                        {
+                            "Video" : [
+                                {
+                                    "id" : "video01",
+                                    "link":"link",
+                                    "title":"Bài tập đầu tiên"
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"bla",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["link"],
+                                                "content" : "bla bla"
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["link"],
+                                                "content" : "bla bla"
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["link"],
+                                                "content" : "bla bla"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_2" : [
+                        {
+                            "Video" : [
+                                {
+                                    "id" : "video01",
+                                    "link":"link",
+                                    "title":"Bài tập đầu tiên"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+},
+{
+    "ID" : "GC_03",
+    "Name" : "Moderate",
+    "Image" : "Image/Moderate_04",
+    "BMI_max": 100,
+    "BMI_min": 29.9,
+    "Route" : [
+        {
+            "Time" : 30,
+            "Detail" :[
+                {
+                    "Day_1" : [
+                        {
+                            "Video" : [
+                                {
+                                    "id" : "video01",
+                                    "link":"link",
+                                    "title":"Bài tập đầu tiên"
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"bla",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["link"],
+                                                "content" : "bla bla"
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["link"],
+                                                "content" : "bla bla"
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["link"],
+                                                "content" : "bla bla"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_2" : [
+                        {
+                            "Video" : [
+                                {
+                                    "id" : "video01",
+                                    "link":"link",
+                                    "title":"Bài tập đầu tiên"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+]
