@@ -1,0 +1,243 @@
+[
+  {
+    "ID" : "Light_Workout_01",
+    "Name" : "Light Workout For Beginners",
+    "Image" : "image/Light_workout/Light_workout_01.webp",
+    "BMI_max": 18.5,
+    "BMI_min": 0,
+    "Gender": "FM",
+    "Route" : [
+      {
+        "Time" : 30,
+        "Detail" :[
+          {
+            "Day_1" : [
+              {
+                "Video" : [
+                  {
+                    "id" : "light_workout_video_01",
+                    "link":"https://www.youtube.com/embed/9g4z0gFlfpA?controls=1",
+                    "title":"First Exercise",
+                    "content": "This morning workout is the perfect way to get your body moving. It's not to intense so you can wake up and stay in your pyjamas. No Jumping or difficult exercises just big feel good moves to get the blood pumping."
+                  }
+                ],
+                "diet" :[
+                  {
+                    "id":"light_workout_diet_01",
+                    "content" : [
+                      {
+                        "section" : {
+                          "title" : "Breakfast",
+                          "src" : "image/Light_workout/light_workout_breakfast_01.jpg",
+                          "content" : ""
+                        }
+                      },
+                      {
+                        "section" : {
+                          "title" : "buổi trưa",
+                          "src" : ["link"],
+                          "content" : "bla bla"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "Day_2" : [
+              {
+                "Video" : [
+                  {
+                    "id" : "video01",
+                    "link":"link",
+                    "title":"Bài tập đầu tiên"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID" : "Light_Workout_02",
+    "Name" : "Light Workout For Beginners",
+    "Image" : "image/Light_workout/Light_workout_02.jpg",
+    "BMI_max": 24.9,
+    "BMI_min": 18.5,
+    "Gender": "M",
+    "Route" : [
+      {
+        "Time" : 30,
+        "Detail" :[
+          {
+            "Day_1" : [
+              {
+                "Video" : [
+                  {
+                    "id" : "video01",
+                    "link":"link",
+                    "title":"Bài tập đầu tiên"
+                  }
+                ],
+                "diet" :[
+                  {
+                    "id":"bla",
+                    "content" : [
+                      {
+                        "section" : {
+                          "title" : "buổi sáng",
+                          "src" : ["link"],
+                          "content" : "bla bla"
+                        }
+                      },
+                      {
+                        "section" : {
+                          "title" : "buổi trưa",
+                          "src" : ["link"],
+                          "content" : "bla bla"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "Day_2" : [
+              {
+                "Video" : [
+                  {
+                    "id" : "video01",
+                    "link":"link",
+                    "title":"Bài tập đầu tiên"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID" : "Light_Workout_03",
+    "Name" : "Light Workout For Beginners",
+    "Image" : "image/Light_workout/Light_workout_03.webp",
+    "BMI_max": 29.9,
+    "BMI_min": 25,
+    "Gender": "FM",
+    "Route" : [
+      {
+        "Time" : 30,
+        "Detail" :[
+          {
+            "Day_1" : [
+              {
+                "Video" : [
+                  {
+                    "id" : "video01",
+                    "link":"link",
+                    "title":"Bài tập đầu tiên"
+                  }
+                ],
+                "diet" :[
+                  {
+                    "id":"bla",
+                    "content" : [
+                      {
+                        "section" : {
+                          "title" : "buổi sáng",
+                          "src" : ["link"],
+                          "content" : "bla bla"
+                        }
+                      },
+                      {
+                        "section" : {
+                          "title" : "buổi trưa",
+                          "src" : ["link"],
+                          "content" : "bla bla"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "Day_2" : [
+              {
+                "Video" : [
+                  {
+                    "id" : "video01",
+                    "link":"link",
+                    "title":"Bài tập đầu tiên"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID" : "Light_Workout_04",
+    "Name" : "Light Workout For Beginners",
+    "Image" : "image/Light_workout/Light_workout_04.jpg",
+    "BMI_max": 100,
+    "BMI_min": 29.9,
+    "Gender": "FM",
+    "Route" : [
+      {
+        "Time" : 30,
+        "Detail" :[
+          {
+            "Day_1" : [
+              {
+                "Video" : [
+                  {
+                    "id" : "video01",
+                    "link":"link",
+                    "title":"Bài tập đầu tiên"
+                  }
+                ],
+                "diet" :[
+                  {
+                    "id":"bla",
+                    "content" : [
+                      {
+                        "section" : {
+                          "title" : "buổi sáng",
+                          "src" : ["link"],
+                          "content" : "bla bla"
+                        }
+                      },
+                      {
+                        "section" : {
+                          "title" : "buổi trưa",
+                          "src" : ["link"],
+                          "content" : "bla bla"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "Day_2" : [
+              {
+                "Video" : [
+                  {
+                    "id" : "video01",
+                    "link":"link",
+                    "title":"Bài tập đầu tiên"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
