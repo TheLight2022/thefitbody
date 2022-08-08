@@ -2,7 +2,66 @@
     {
         "ID" : "GC_01",
         "Name" : "Giảm cân cho người năng động",
-        "amh" : "src",
+        "Image" : "src",
+        "Route" : [
+            {
+                "Time" : 30,
+                "Detail" :[
+                    {
+                        "Day_1" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "id" : "video01",
+                                        "link":"link",
+                                        "title":"Bài tập đầu tiên"
+                                    }
+                                ],
+                                "diet" :[
+                                    {
+                                        "id":"bla",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "buổi sáng",
+                                                    "src" : ["link"],
+                                                    "content" : "bla bla"
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "buổi trưa",
+                                                    "src" : ["link"],
+                                                    "content" : "bla bla"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_2" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "id" : "video01",
+                                        "link":"link",
+                                        "title":"Bài tập đầu tiên"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ID" : "GC_03",
+        "Name" : "Moderate",
+        "Image" : "src",
+        "BMI_max": ,
+        "BMI_min": ,
         "Route" : [
             {
                 "Time" : 30,
