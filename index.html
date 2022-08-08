@@ -17,43 +17,9 @@
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/fontawesome-pro-6.1.0-web/fontawesome-pro-6.1.0-web/css/all.css">
 </head>
-<body>
-    <header class="header">
-        <div class="wrap-header">
-            <div class="wrap-header-content">
-                <div class="logo">
-                    <a class="routeHome" href=""><img src="./image/logo.png" alt=""></a>
-                </div>
-                <nav class="nav-link">
-                    <ul class="list-nav-link">
-                        <li class="active"><a href="#">Home</a></li>
-                        <li><a href="#">About me</a></li>
-                        <li><a href="#">my program</a></li>
-                        <li><a href="#">CALORIE CALCULATOR</a></li>
-                        <li><a href="#">Contact</a></li>
-
-                    </ul>
-                </nav>
-                <div class="member-area">
-                    <a href="">member area</a>
-                </div>
-            </div>
-            <section class="container">
-                <div class="content-wellcome">
-                    <div class="wellcome-left">
-                        <div class="wellcome-content">
-                            <img  class="logo" src="./image/logo.png" alt="">
-                            <h1>CALORIE <br> CALCULATOR</h1>
-                        </div>
-                    </div>
-                    <div class="wellcome-right">
-                        <img src="./image/wellcome-right-img.webp" alt="">
-                    </div>
-                </div>
-            </section>
-            <div class="wrap-footer"></div>
-        </div>
-    </header>
+<body ng-app="MyApp">
+    
+    <div ng-view></div>
 
     <footer class="footer">
         <div class="footer-content">
@@ -86,5 +52,13 @@
     <!-- JS Bootstrap -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.min.js" integrity="sha384-ODmDIVzN+pFdexxHEHFBQH3/9/vQ9uori45z4JjnFsRydbmQbmL5t1tQ0culUzyK" crossorigin="anonymous"></script>
+    <!-- MyApp -->
+    <script src="./js/app.js"></script>
+    <!-- Controllers -->
+    <script src="./js/controllers/HomeController.js"></script>
+    <script src="./js/controllers/AboutController.js"></script>
+    <script src="./js/controllers/MyProgramController.js"></script>
+    <script src="./js/controllers/CalorieCalculatorControler.js"></script>
+    <script src="./js/controllers/ContactController.js"></script>
 </body>
 </html>
