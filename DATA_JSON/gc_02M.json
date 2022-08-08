@@ -1,0 +1,2288 @@
+[
+    {
+    "ID" : "Sedentary01M",
+    "Name" : "sedentary",
+    "Image" : "../../image/sedentary/sedentary-01.jpg",
+    "BMI_max": 18.5,
+    "BMI_min": 0,
+    "Gender":"M",
+    "Route" : [
+        {
+            "Time" : 7,
+            "Detail" :[
+                {
+                    "Day_1" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"1st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight on the first day."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet01",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet04.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet05.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet06.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_2" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"2st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight on the first day."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet02",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet01.jpg"],
+                                                "content" : "Combine 3/4 cup bran flakes, 1 banana, and 1 cup fat-free milk in a bowl."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet02.jpg"],
+                                                "content" : " Build a sandwich with 1 mini whole wheat pita, 3 ounces turkey breast, 1/2 roasted pepper, 1 teaspoon mayo, mustard, and lettuce. Serve with 1 stick part-skim mozzarella string cheese and 2 kiwis."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet03.jpg"],
+                                                "content" : "Serve 4 ounces broiled flounder or sole with 2 sliced plum tomatoes sprinkled with 2 tablespoons grated Parmesan cheese, broiled until just golden. Eat with 1 cup cooked couscous and 1 cup steamed broccoli. Enjoy with a single-serve ice cream (like any of these delicious picks!) for dessert."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_3" : [
+                        {
+                            "Video" : [
+                                {
+
+                                    "title":"3st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet03",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title": "Breakfast",
+                                                "src": [
+                                                    "../../image/sedentary/diet07.jpg"
+                                                ],
+                                                "content": "To make a chicken salad, toss 4 ounces shredded skinless roast chicken breast with 1/4 cup sliced red grapes, 1 tablespoon slivered almonds, 1 tablespoon mayonnaise, and 1 tablespoon plain, unsweetened Greek yogurt. Serve over lettuce. Eat with 1 banana"
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet08.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet09.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_4" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"4st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet04",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet10.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet11.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet12.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_5" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"5st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet05",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet13.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet14.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet15.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_6" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"6st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet06",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet16.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet17.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet18.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_7" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"7st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet07",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet19.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet20.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet21.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+},{
+    "ID" : "Sedentary02M",
+    "Name" : "sedentary",
+    "Image" : "../../image/sedentary/Nhay-day-co-giam-can-khong.jpg",
+    "BMI_max": 24.9,
+    "BMI_min": 18.5,
+    "Gender":"M",
+    "Route" : [
+        {
+            "Time" : 7,
+            "Detail" :[
+                {
+                    "Day_1" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"1st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight on the first day."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet01",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet04.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet05.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet06.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_2" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"2st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight on the first day."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet02",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet01.jpg"],
+                                                "content" : "Combine 3/4 cup bran flakes, 1 banana, and 1 cup fat-free milk in a bowl."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet02.jpg"],
+                                                "content" : " Build a sandwich with 1 mini whole wheat pita, 3 ounces turkey breast, 1/2 roasted pepper, 1 teaspoon mayo, mustard, and lettuce. Serve with 1 stick part-skim mozzarella string cheese and 2 kiwis."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet03.jpg"],
+                                                "content" : "Serve 4 ounces broiled flounder or sole with 2 sliced plum tomatoes sprinkled with 2 tablespoons grated Parmesan cheese, broiled until just golden. Eat with 1 cup cooked couscous and 1 cup steamed broccoli. Enjoy with a single-serve ice cream (like any of these delicious picks!) for dessert."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_3" : [
+                        {
+                            "Video" : [
+                                {
+
+                                    "title":"3st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet03",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title": "Breakfast",
+                                                "src": [
+                                                    "../../image/sedentary/diet07.jpg"
+                                                ],
+                                                "content": "To make a chicken salad, toss 4 ounces shredded skinless roast chicken breast with 1/4 cup sliced red grapes, 1 tablespoon slivered almonds, 1 tablespoon mayonnaise, and 1 tablespoon plain, unsweetened Greek yogurt. Serve over lettuce. Eat with 1 banana"
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet08.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet09.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_4" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"4st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet04",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet10.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet11.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet12.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_5" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"5st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet05",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet13.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet14.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet15.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_6" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"6st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet06",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet16.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet17.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet18.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_7" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"7st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet07",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet19.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet20.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet21.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+},
+{
+    "ID" : "Sedentary03M",
+    "Name" : "sedentary",
+    "Image" : "../../image/sedentary/img-0942.jpg",
+    "BMI_max": 29.9,
+    "BMI_min": 25,
+    "Gender":"M",
+    "Route" : [
+        {
+            "Time" : 30,
+            "Detail" :[
+                {
+                    "Day_1" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"1st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight on the first day."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet01",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet04.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet05.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet06.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_2" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"2st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight on the first day."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet02",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet01.jpg"],
+                                                "content" : "Combine 3/4 cup bran flakes, 1 banana, and 1 cup fat-free milk in a bowl."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet02.jpg"],
+                                                "content" : " Build a sandwich with 1 mini whole wheat pita, 3 ounces turkey breast, 1/2 roasted pepper, 1 teaspoon mayo, mustard, and lettuce. Serve with 1 stick part-skim mozzarella string cheese and 2 kiwis."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet03.jpg"],
+                                                "content" : "Serve 4 ounces broiled flounder or sole with 2 sliced plum tomatoes sprinkled with 2 tablespoons grated Parmesan cheese, broiled until just golden. Eat with 1 cup cooked couscous and 1 cup steamed broccoli. Enjoy with a single-serve ice cream (like any of these delicious picks!) for dessert."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_3" : [
+                        {
+                            "Video" : [
+                                {
+
+                                    "title":"3st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet03",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title": "Breakfast",
+                                                "src": [
+                                                    "../../image/sedentary/diet07.jpg"
+                                                ],
+                                                "content": "To make a chicken salad, toss 4 ounces shredded skinless roast chicken breast with 1/4 cup sliced red grapes, 1 tablespoon slivered almonds, 1 tablespoon mayonnaise, and 1 tablespoon plain, unsweetened Greek yogurt. Serve over lettuce. Eat with 1 banana"
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet08.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet09.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_4" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"4st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet04",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet10.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet11.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet12.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_5" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"5st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet05",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet13.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet14.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet15.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_6" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"6st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet06",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet16.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet17.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet18.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_7" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"7st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet07",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet19.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet20.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet21.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+},
+{
+    "ID" : "Sedentary04M",
+    "Name" : "sedentary",
+    "Image" : "../../image/sedentary/HIIT-chinh-la-nhung-bai-tap-o-cuong-do-cao-co-su-ngat-quang-.jpg",
+    "BMI_max": 100,
+    "BMI_min": 29.9,
+    "Gender":"M",
+    "Route" : [
+        {
+            "Time" : 7,
+            "Detail" :[
+                {
+                    "Day_1" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"1st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight on the first day."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet01",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet04.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet05.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet06.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_2" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"2st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight on the first day."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet02",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet01.jpg"],
+                                                "content" : "Combine 3/4 cup bran flakes, 1 banana, and 1 cup fat-free milk in a bowl."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet02.jpg"],
+                                                "content" : " Build a sandwich with 1 mini whole wheat pita, 3 ounces turkey breast, 1/2 roasted pepper, 1 teaspoon mayo, mustard, and lettuce. Serve with 1 stick part-skim mozzarella string cheese and 2 kiwis."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet03.jpg"],
+                                                "content" : "Serve 4 ounces broiled flounder or sole with 2 sliced plum tomatoes sprinkled with 2 tablespoons grated Parmesan cheese, broiled until just golden. Eat with 1 cup cooked couscous and 1 cup steamed broccoli. Enjoy with a single-serve ice cream (like any of these delicious picks!) for dessert."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_3" : [
+                        {
+                            "Video" : [
+                                {
+
+                                    "title":"3st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet03",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title": "Breakfast",
+                                                "src": [
+                                                    "../../image/sedentary/diet07.jpg"
+                                                ],
+                                                "content": "To make a chicken salad, toss 4 ounces shredded skinless roast chicken breast with 1/4 cup sliced red grapes, 1 tablespoon slivered almonds, 1 tablespoon mayonnaise, and 1 tablespoon plain, unsweetened Greek yogurt. Serve over lettuce. Eat with 1 banana"
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet08.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet09.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_4" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"4st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet04",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet10.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet11.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet12.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_5" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"5st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet05",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet13.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet14.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet15.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_6" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"6st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet06",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet16.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet17.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet18.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_7" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"7st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet07",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet19.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet20.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet21.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+},
+    {
+        "ID" : "Sedentary01FM",
+        "Name" : "sedentary",
+        "Image" : "../../image/sedentary/woman-walking-for-exercise.webp",
+        "BMI_max": 18.5,
+        "BMI_min": 0,
+        "Gender":"FM",
+        "Route" : [
+            {
+                "Time" : 7,
+                "Detail" :[
+                    {
+                        "Day_1" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"1st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight on the first day."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet01",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet04.jpg"],
+                                                    "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet05.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet06.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_2" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"2st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight on the first day."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet02",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet01.jpg"],
+                                                    "content" : "Combine 3/4 cup bran flakes, 1 banana, and 1 cup fat-free milk in a bowl."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet02.jpg"],
+                                                    "content" : " Build a sandwich with 1 mini whole wheat pita, 3 ounces turkey breast, 1/2 roasted pepper, 1 teaspoon mayo, mustard, and lettuce. Serve with 1 stick part-skim mozzarella string cheese and 2 kiwis."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet03.jpg"],
+                                                    "content" : "Serve 4 ounces broiled flounder or sole with 2 sliced plum tomatoes sprinkled with 2 tablespoons grated Parmesan cheese, broiled until just golden. Eat with 1 cup cooked couscous and 1 cup steamed broccoli. Enjoy with a single-serve ice cream (like any of these delicious picks!) for dessert."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_3" : [
+                            {
+                                "Video" : [
+                                    {
+
+                                        "title":"3st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet03",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title": "Breakfast",
+                                                    "src": [
+                                                        "../../image/sedentary/diet07.jpg"
+                                                    ],
+                                                    "content": "To make a chicken salad, toss 4 ounces shredded skinless roast chicken breast with 1/4 cup sliced red grapes, 1 tablespoon slivered almonds, 1 tablespoon mayonnaise, and 1 tablespoon plain, unsweetened Greek yogurt. Serve over lettuce. Eat with 1 banana"
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet08.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet09.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_4" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"4st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet04",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet10.jpg"],
+                                                    "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet11.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet12.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_5" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"5st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet05",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet13.jpg"],
+                                                    "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet14.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet15.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_6" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"6st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet06",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet16.jpg"],
+                                                    "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet17.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet18.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_7" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"7st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet07",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet19.jpg"],
+                                                    "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet20.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet21.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },{
+    "ID" : "Sedentary02FM",
+    "Name" : "sedentary",
+    "Image" : "../../image/sedentary/1-jpeg-8100-1630372440.jpg",
+    "BMI_max": 24.9,
+    "BMI_min": 18.5,
+    "Gender":"FM",
+    "Route" : [
+        {
+            "Time" : 30,
+            "Detail" :[
+                {
+                    "Day_1" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"1st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight on the first day."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet01",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet04.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet05.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet06.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_2" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"2st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight on the first day."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet02",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet01.jpg"],
+                                                "content" : "Combine 3/4 cup bran flakes, 1 banana, and 1 cup fat-free milk in a bowl."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet02.jpg"],
+                                                "content" : " Build a sandwich with 1 mini whole wheat pita, 3 ounces turkey breast, 1/2 roasted pepper, 1 teaspoon mayo, mustard, and lettuce. Serve with 1 stick part-skim mozzarella string cheese and 2 kiwis."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet03.jpg"],
+                                                "content" : "Serve 4 ounces broiled flounder or sole with 2 sliced plum tomatoes sprinkled with 2 tablespoons grated Parmesan cheese, broiled until just golden. Eat with 1 cup cooked couscous and 1 cup steamed broccoli. Enjoy with a single-serve ice cream (like any of these delicious picks!) for dessert."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_3" : [
+                        {
+                            "Video" : [
+                                {
+
+                                    "title":"3st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet03",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title": "Breakfast",
+                                                "src": [
+                                                    "../../image/sedentary/diet07.jpg"
+                                                ],
+                                                "content": "To make a chicken salad, toss 4 ounces shredded skinless roast chicken breast with 1/4 cup sliced red grapes, 1 tablespoon slivered almonds, 1 tablespoon mayonnaise, and 1 tablespoon plain, unsweetened Greek yogurt. Serve over lettuce. Eat with 1 banana"
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet08.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet09.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_4" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"4st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet04",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet10.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet11.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet12.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_5" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"5st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet05",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet13.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet14.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet15.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_6" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"6st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet06",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet16.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet17.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet18.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_7" : [
+                        {
+                            "Video" : [
+                                {
+                                    "title":"7st day diet",
+                                    "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"diet07",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Breakfast",
+                                                "src" : ["../../image/sedentary/diet19.jpg"],
+                                                "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Lunch",
+                                                "src" : ["../../image/sedentary/diet20.jpg"],
+                                                "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Dinner",
+                                                "src" : ["../../image/sedentary/diet21.jpg"],
+                                                "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+},
+    {
+        "ID" : "Sedentary03FM",
+        "Name" : "sedentary",
+        "Image" : "../../image/sedentary/bdyfit 01.webp",
+        "BMI_max": 29.9,
+        "BMI_min": 25,
+        "Gender":"FM",
+        "Route" : [
+            {
+                "Time" : 30,
+                "Detail" :[
+                    {
+                        "Day_1" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"1st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight on the first day."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet01",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet04.jpg"],
+                                                    "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet05.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet06.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_2" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"2st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight on the first day."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet02",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet01.jpg"],
+                                                    "content" : "Combine 3/4 cup bran flakes, 1 banana, and 1 cup fat-free milk in a bowl."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet02.jpg"],
+                                                    "content" : " Build a sandwich with 1 mini whole wheat pita, 3 ounces turkey breast, 1/2 roasted pepper, 1 teaspoon mayo, mustard, and lettuce. Serve with 1 stick part-skim mozzarella string cheese and 2 kiwis."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet03.jpg"],
+                                                    "content" : "Serve 4 ounces broiled flounder or sole with 2 sliced plum tomatoes sprinkled with 2 tablespoons grated Parmesan cheese, broiled until just golden. Eat with 1 cup cooked couscous and 1 cup steamed broccoli. Enjoy with a single-serve ice cream (like any of these delicious picks!) for dessert."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_3" : [
+                            {
+                                "Video" : [
+                                    {
+
+                                        "title":"3st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet03",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title": "Breakfast",
+                                                    "src": [
+                                                        "../../image/sedentary/diet07.jpg"
+                                                    ],
+                                                    "content": "To make a chicken salad, toss 4 ounces shredded skinless roast chicken breast with 1/4 cup sliced red grapes, 1 tablespoon slivered almonds, 1 tablespoon mayonnaise, and 1 tablespoon plain, unsweetened Greek yogurt. Serve over lettuce. Eat with 1 banana"
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet08.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet09.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_4" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"4st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet04",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet10.jpg"],
+                                                    "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet11.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet12.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_5" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"5st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet05",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet13.jpg"],
+                                                    "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet14.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet15.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_6" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"6st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet06",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet16.jpg"],
+                                                    "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet17.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet18.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_7" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"7st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet07",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet19.jpg"],
+                                                    "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet20.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet21.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ID" : "Sedentary04FM",
+        "Name" : "sedentary",
+        "Image" : "../../image/sedentary/15-bai-tap-cardio-3.webp",
+        "BMI_max": 100,
+        "BMI_min": 29.9,
+        "Gender":"FM",
+        "Route" : [
+            {
+                "Time" : 7,
+                "Detail" :[
+                    {
+                        "Day_1" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"1st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight on the first day."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet01",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet04.jpg"],
+                                                    "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet05.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet06.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_2" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"2st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight on the first day."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet02",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet01.jpg"],
+                                                    "content" : "Combine 3/4 cup bran flakes, 1 banana, and 1 cup fat-free milk in a bowl."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet02.jpg"],
+                                                    "content" : " Build a sandwich with 1 mini whole wheat pita, 3 ounces turkey breast, 1/2 roasted pepper, 1 teaspoon mayo, mustard, and lettuce. Serve with 1 stick part-skim mozzarella string cheese and 2 kiwis."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet03.jpg"],
+                                                    "content" : "Serve 4 ounces broiled flounder or sole with 2 sliced plum tomatoes sprinkled with 2 tablespoons grated Parmesan cheese, broiled until just golden. Eat with 1 cup cooked couscous and 1 cup steamed broccoli. Enjoy with a single-serve ice cream (like any of these delicious picks!) for dessert."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_3" : [
+                            {
+                                "Video" : [
+                                    {
+
+                                        "title":"3st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet03",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title": "Breakfast",
+                                                    "src": [
+                                                        "../../image/sedentary/diet07.jpg"
+                                                    ],
+                                                    "content": "To make a chicken salad, toss 4 ounces shredded skinless roast chicken breast with 1/4 cup sliced red grapes, 1 tablespoon slivered almonds, 1 tablespoon mayonnaise, and 1 tablespoon plain, unsweetened Greek yogurt. Serve over lettuce. Eat with 1 banana"
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet08.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet09.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_4" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"4st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet04",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet10.jpg"],
+                                                    "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet11.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet12.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_5" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"5st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet05",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet13.jpg"],
+                                                    "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet14.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet15.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_6" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"6st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet06",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet16.jpg"],
+                                                    "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet17.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet18.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "Day_7" : [
+                            {
+                                "Video" : [
+                                    {
+                                        "title":"7st day diet",
+                                        "content": "if you don't have enough time, you just need to eat right to loose weight."
+                                    }
+                                ],
+                                "Diet" :[
+                                    {
+                                        "id":"diet07",
+                                        "content" : [
+                                            {
+                                                "section" : {
+                                                    "title" : "Breakfast",
+                                                    "src" : ["../../image/sedentary/diet19.jpg"],
+                                                    "content" : "Blend 1 cup frozen berries, 1/2 banana, and 8 ounces of low- or fat-free milk into a smoothie. Grab 1 or 2 hard-boiled eggs on your way out the door."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Lunch",
+                                                    "src" : ["../../image/sedentary/diet20.jpg"],
+                                                    "content" : "Heat up 1 cup vegetarian vegetable soup and serve with 1 veggie burger on a slice of, whole grain and seed toast, or English muffin and 1 cup of grapes."
+                                                }
+                                            },
+                                            {
+                                                "section" : {
+                                                    "title" : "Dinner",
+                                                    "src" : ["../../image/sedentary/diet21.jpg"],
+                                                    "content" : "Brush 4 ounces boneless, skinless chicken breast with barbecue sauce and grill. Combine 2 heaping cups of sautéed spinach with garlic, olive oil, and tomatoes and serve with 1/2 plain baked or sweet potato (as desired)."
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

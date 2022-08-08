@@ -2,7 +2,7 @@
     {
     "ID" : "GC_03",
     "Name" : "Moderate",
-    "Image" : "Image/Moderate_01",
+    "Image" : "",
     "BMI_max": 18.5,
     "BMI_min": 0,
     "Route" : [
