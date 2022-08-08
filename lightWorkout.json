@@ -1,8 +1,8 @@
 [
   {
-    "ID" : "Light_Workout",
+    "ID" : "Light_Workout_1",
     "Name" : "Light Workout For Beginners",
-    "amh" : "src",
+    "Image" : "",
     "Route" : [
       {
         "Time" : 30,
