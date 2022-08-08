@@ -2,22 +2,23 @@
     {
     "ID" : "MD_01",
     "Name" : "Workout moderate for skinny person",
-    "Image" : "Image/Moderate_01",
+    "Image" : "Image/moderate_male/moderate_male01.jpg",
     "Gender": "M",
     "BMI_max": 18.5,
     "BMI_min": 0,
     "Route" : [
         {
-            "Time" : 30,
+            "Time" : "Three times a week",
             "Detail" :[
                 {
                     "Day_1" : [
                         {
                             "Video" : [
                                 {
-                                    "id" : "video01",
-                                    "link":"link",
-                                    "title":"Bài tập đầu tiên"
+                                    "id" : "md_video01",
+                                    "link": "https://youtu.be/LAMVB4FMuE8",
+                                    "title":"1. Barbell Back Squats",
+                                    "content": "Muscles targeted: Legs, lower back and core Instructions: Begin standing with your feet shoulder width apart. Rest a barbell on your back, holding it with an overhand grip. Initiate the squat position through hinging at the hips and bending your knees until your quads are parallel to the ground (depending on your mobility). Lock your hips and squeeze your glutes when you return to standing position. It’s important to keep your core engaged to support a neutral spine and avoid pelvic tilt during your squat. Your knees should not, at any stage, go beyond your toes. A good way to avoid this is by keeping your weight concentrated in your heels."
                                 }
                             ],
                             "Diet" :[
@@ -26,23 +27,51 @@
                                     "content" : [
                                         {
                                             "section" : {
-                                                "title" : "Breakfast",
-                                                "src" : ["link"],
-                                                "content" : "bla bla"
+                                                "title" : "Eat calorie-dense foods",
+                                                "src" : "image/diet_moderate/meal1.jpg",
+                                                "content" : "The calorie-dense foods doesn’t refer to the fried and processed foods that people eat due to good taste. Several healthy-calorie dense foods are loaded with healthy fats, vitamins, proteins, & other nutrients. If you want to turn your skinny body into a curvy one, you need to include these foods in your diet. Some examples of calorie-dense foods include meats, fishes, nuts, eggs, etc. All these foods help in filling your body with healthy calories that can be converted into good fats."
                                             }
                                         },
                                         {
                                             "section" : {
-                                                "title" : "Lunch",
-                                                "src" : ["link"],
-                                                "content" : "bla bla"
+                                                "title" : "Drink calories",
+                                                "src" : "image/diet_moderate/meal2.jpg",
+                                                "content" : "To put on weight, you can always prepare calorie-filled drinks & smoothies at home. For most of us, drinking is much easier and convenient than eating healthy foods. Thus, you can use high-calorie fruits & vegetables to prepare smoothies at home. To add more calories, you can use seeds & nuts as a topping. This will help you to consume high amounts of calories without compromising your health. Also, these homemade healthy smoothies are much better than processed & packed health drinks."
                                             }
                                         },
                                         {
                                             "section" : {
-                                                "title" : "Dinner",
-                                                "src" : ["link"],
-                                                "content" : "bla bla"
+                                                "title" : "Meats",
+                                                "src" : "image/diet_moderate/meal3.jpg",
+                                                "content" : "Meats are an amazing source of protein, iron, healthy fats, vitamins, and zinc, etc. These are great for building muscles & putting on weight. Moreover, these are one of the healthiest calorie-rich foods in the world. By including these in your diet, you can easily gain weight & get into your desired body shape. Some examples of the best meats for weight gain include red meat, chicken, pork, etc. If you are looking to build more of a muscular body, then go for lean meats."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Fatty fishes",
+                                                "src" : "image/diet_moderate/meal4.jpg",
+                                                "content" : "Fatty fishes are loaded with healthy fats & calories to help you gain weight quickly. Apart from these, fatty fishes are an excellent source of proteins, omega-3s, minerals, vitamins, and fiber. By including these in your diet, you can easily increase your caloric-intake to a huge amount. Moreover, these fishes are a very healthy option to gain weight along with many other health benefits. Some examples of fatty fishes include salmon, mackerel, tuna, herring, etc."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Nuts",
+                                                "src" : "image/diet_moderate/meal5.jpg",
+                                                "content" : "Nuts are an excellent snack to boost your caloric-intake by a great amount. Nuts are loaded with healthy fats i.e. omega-3 & omega-6, which are effective for weight gain. Furthermore, nuts contain proteins, minerals, dietary fibers, and proteins. Consuming a few nuts can easily contain hundreds of calories, which is really good for putting on weight. The best thing about nuts is that they can be eaten as a snack or as a topping on your favorite dishes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Eat 5-6 times a day",
+                                                "src" : "image/diet_moderate/meal6.jpg",
+                                                "content" : "to put on weight quickly, you need to eat 5-6 meals a day. When you eat 5-6 times, you are naturally going to eat lesser food. But you can always add extra calories to every meal to boost your weight gain process. For this purpose, you can add nuts & seeds as a topping on your food. Moreover, you can add other healthy nutrients to each of your meals to keep yourself healthy."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Avoid low-calorie diet",
+                                                "src" : "image/diet_moderate/meal.jpg",
+                                                "content" : "Most of the people around the world tend to eat foods that have low-calorie count. These might include popcorns, starchy carbohydrates, fruits, and vegetables, etc. As the calorie count of these foods is low, you cannot gain weight easily. Thus, you need to replace these with high-calorie healthy foods. These foods include butter, cheese, nuts, eggs, and full-fat dairy products, etc."
                                             }
                                         }
                                     ]
@@ -54,9 +83,406 @@
                         {
                             "Video" : [
                                 {
-                                    "id" : "video01",
-                                    "link":"link",
-                                    "title":"Bài tập đầu tiên"
+                                    "id" : "md_video02",
+                                    "link": "https://youtu.be/Mor5Yc9ZKHw",
+                                    "title": "2. Close Grip Bench Press",
+                                    "content": "Muscles targeted: Chest, arms. Instructions: Lie on a flat bench holding a barbell with your hands shoulder width apart. Your eyes should be under the bar, in terms of the positioning of the bench in the rack. Lift the bar off the rack and lower it down to your chest whilst inhaling. Drive your heels into the ground, exhale and push the bar back up. Wrist positioning is an important element of a good bench press. Try to hold the bar with a neutral wrist positioning, rather than flexed back. At the bottom of the lift, your wrists and elbows should line up straight, or close to."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"bla",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Eat calorie-dense foods",
+                                                "src" : "image/diet_moderate/meal1.jpg",
+                                                "content" : "The calorie-dense foods doesn’t refer to the fried and processed foods that people eat due to good taste. Several healthy-calorie dense foods are loaded with healthy fats, vitamins, proteins, & other nutrients. If you want to turn your skinny body into a curvy one, you need to include these foods in your diet. Some examples of calorie-dense foods include meats, fishes, nuts, eggs, etc. All these foods help in filling your body with healthy calories that can be converted into good fats."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Drink calories",
+                                                "src" : "image/diet_moderate/meal2.jpg",
+                                                "content" : "To put on weight, you can always prepare calorie-filled drinks & smoothies at home. For most of us, drinking is much easier and convenient than eating healthy foods. Thus, you can use high-calorie fruits & vegetables to prepare smoothies at home. To add more calories, you can use seeds & nuts as a topping. This will help you to consume high amounts of calories without compromising your health. Also, these homemade healthy smoothies are much better than processed & packed health drinks."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Meats",
+                                                "src" : "image/diet_moderate/meal3.jpg",
+                                                "content" : "Meats are an amazing source of protein, iron, healthy fats, vitamins, and zinc, etc. These are great for building muscles & putting on weight. Moreover, these are one of the healthiest calorie-rich foods in the world. By including these in your diet, you can easily gain weight & get into your desired body shape. Some examples of the best meats for weight gain include red meat, chicken, pork, etc. If you are looking to build more of a muscular body, then go for lean meats."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Fatty fishes",
+                                                "src" : "image/diet_moderate/meal4.jpg",
+                                                "content" : "Fatty fishes are loaded with healthy fats & calories to help you gain weight quickly. Apart from these, fatty fishes are an excellent source of proteins, omega-3s, minerals, vitamins, and fiber. By including these in your diet, you can easily increase your caloric-intake to a huge amount. Moreover, these fishes are a very healthy option to gain weight along with many other health benefits. Some examples of fatty fishes include salmon, mackerel, tuna, herring, etc."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Nuts",
+                                                "src" : "image/diet_moderate/meal5.jpg",
+                                                "content" : "Nuts are an excellent snack to boost your caloric-intake by a great amount. Nuts are loaded with healthy fats i.e. omega-3 & omega-6, which are effective for weight gain. Furthermore, nuts contain proteins, minerals, dietary fibers, and proteins. Consuming a few nuts can easily contain hundreds of calories, which is really good for putting on weight. The best thing about nuts is that they can be eaten as a snack or as a topping on your favorite dishes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Eat 5-6 times a day",
+                                                "src" : "image/diet_moderate/meal6.jpg",
+                                                "content" : "to put on weight quickly, you need to eat 5-6 meals a day. When you eat 5-6 times, you are naturally going to eat lesser food. But you can always add extra calories to every meal to boost your weight gain process. For this purpose, you can add nuts & seeds as a topping on your food. Moreover, you can add other healthy nutrients to each of your meals to keep yourself healthy."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Avoid low-calorie diet",
+                                                "src" : "image/diet_moderate/meal.jpg",
+                                                "content" : "Most of the people around the world tend to eat foods that have low-calorie count. These might include popcorns, starchy carbohydrates, fruits, and vegetables, etc. As the calorie count of these foods is low, you cannot gain weight easily. Thus, you need to replace these with high-calorie healthy foods. These foods include butter, cheese, nuts, eggs, and full-fat dairy products, etc."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_3" : [
+                        {
+                            "Video" : [
+                                {
+                                    "id" : "md_video03",
+                                    "link": "https://youtu.be/N4kaTwfkA48",
+                                    "title":"3. Dumbbell Walking Lunges",
+                                    "content": "Muscles targeted: Legs, lower back and core. Instructions: Hold a dumbbell in each hand with your arms by your sides. Take a big step forward and bend your knees to lower your hips towards the ground. Keep your chest upright and a maintain a neutral spine. The knee of your back leg should not touch the ground. Push back upwards through the heel of your front foot and take a step forward with the other leg. Focus on stepping out of each lunge with your heel and glutes (bum muscles) rather than your quads (thighs) and toes. This will increase the muscle activity through your posterior chain and boost those booty gains! Note: The repetitions, in this case, refer to each leg. So, 10 reps = 20 walking lunges and 12 reps = 24 walking lunges."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"bla",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Eat calorie-dense foods",
+                                                "src" : "image/diet_moderate/meal1.jpg",
+                                                "content" : "The calorie-dense foods doesn’t refer to the fried and processed foods that people eat due to good taste. Several healthy-calorie dense foods are loaded with healthy fats, vitamins, proteins, & other nutrients. If you want to turn your skinny body into a curvy one, you need to include these foods in your diet. Some examples of calorie-dense foods include meats, fishes, nuts, eggs, etc. All these foods help in filling your body with healthy calories that can be converted into good fats."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Drink calories",
+                                                "src" : "image/diet_moderate/meal2.jpg",
+                                                "content" : "To put on weight, you can always prepare calorie-filled drinks & smoothies at home. For most of us, drinking is much easier and convenient than eating healthy foods. Thus, you can use high-calorie fruits & vegetables to prepare smoothies at home. To add more calories, you can use seeds & nuts as a topping. This will help you to consume high amounts of calories without compromising your health. Also, these homemade healthy smoothies are much better than processed & packed health drinks."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Meats",
+                                                "src" : "image/diet_moderate/meal3.jpg",
+                                                "content" : "Meats are an amazing source of protein, iron, healthy fats, vitamins, and zinc, etc. These are great for building muscles & putting on weight. Moreover, these are one of the healthiest calorie-rich foods in the world. By including these in your diet, you can easily gain weight & get into your desired body shape. Some examples of the best meats for weight gain include red meat, chicken, pork, etc. If you are looking to build more of a muscular body, then go for lean meats."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Fatty fishes",
+                                                "src" : "image/diet_moderate/meal4.jpg",
+                                                "content" : "Fatty fishes are loaded with healthy fats & calories to help you gain weight quickly. Apart from these, fatty fishes are an excellent source of proteins, omega-3s, minerals, vitamins, and fiber. By including these in your diet, you can easily increase your caloric-intake to a huge amount. Moreover, these fishes are a very healthy option to gain weight along with many other health benefits. Some examples of fatty fishes include salmon, mackerel, tuna, herring, etc."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Nuts",
+                                                "src" : "image/diet_moderate/meal5.jpg",
+                                                "content" : "Nuts are an excellent snack to boost your caloric-intake by a great amount. Nuts are loaded with healthy fats i.e. omega-3 & omega-6, which are effective for weight gain. Furthermore, nuts contain proteins, minerals, dietary fibers, and proteins. Consuming a few nuts can easily contain hundreds of calories, which is really good for putting on weight. The best thing about nuts is that they can be eaten as a snack or as a topping on your favorite dishes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Eat 5-6 times a day",
+                                                "src" : "image/diet_moderate/meal6.jpg",
+                                                "content" : "to put on weight quickly, you need to eat 5-6 meals a day. When you eat 5-6 times, you are naturally going to eat lesser food. But you can always add extra calories to every meal to boost your weight gain process. For this purpose, you can add nuts & seeds as a topping on your food. Moreover, you can add other healthy nutrients to each of your meals to keep yourself healthy."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Avoid low-calorie diet",
+                                                "src" : "image/diet_moderate/meal.jpg",
+                                                "content" : "Most of the people around the world tend to eat foods that have low-calorie count. These might include popcorns, starchy carbohydrates, fruits, and vegetables, etc. As the calorie count of these foods is low, you cannot gain weight easily. Thus, you need to replace these with high-calorie healthy foods. These foods include butter, cheese, nuts, eggs, and full-fat dairy products, etc."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_4" : [
+                        {
+                            "Video" : [
+                                {
+                                    "id" : "md_video04",
+                                    "link": "https://youtu.be/QiiMH8l92Ko",
+                                    "title":"4. Wide Grip Lat Pull Down",
+                                    "content": "Muscles targeted: Back, arms. Instructions: Sit in the wide grip machine holding the bar with a wide grip. Extend through your thoracic spine and engage through your lats (underarms) then pull the bar down to just above your chest. On the upward phase of the movement, control the bar and ensure that you go to full extension through the arms."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"bla",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Eat calorie-dense foods",
+                                                "src" : "image/diet_moderate/meal1.jpg",
+                                                "content" : "The calorie-dense foods doesn’t refer to the fried and processed foods that people eat due to good taste. Several healthy-calorie dense foods are loaded with healthy fats, vitamins, proteins, & other nutrients. If you want to turn your skinny body into a curvy one, you need to include these foods in your diet. Some examples of calorie-dense foods include meats, fishes, nuts, eggs, etc. All these foods help in filling your body with healthy calories that can be converted into good fats."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Drink calories",
+                                                "src" : "image/diet_moderate/meal2.jpg",
+                                                "content" : "To put on weight, you can always prepare calorie-filled drinks & smoothies at home. For most of us, drinking is much easier and convenient than eating healthy foods. Thus, you can use high-calorie fruits & vegetables to prepare smoothies at home. To add more calories, you can use seeds & nuts as a topping. This will help you to consume high amounts of calories without compromising your health. Also, these homemade healthy smoothies are much better than processed & packed health drinks."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Meats",
+                                                "src" : "image/diet_moderate/meal3.jpg",
+                                                "content" : "Meats are an amazing source of protein, iron, healthy fats, vitamins, and zinc, etc. These are great for building muscles & putting on weight. Moreover, these are one of the healthiest calorie-rich foods in the world. By including these in your diet, you can easily gain weight & get into your desired body shape. Some examples of the best meats for weight gain include red meat, chicken, pork, etc. If you are looking to build more of a muscular body, then go for lean meats."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Fatty fishes",
+                                                "src" : "image/diet_moderate/meal4.jpg",
+                                                "content" : "Fatty fishes are loaded with healthy fats & calories to help you gain weight quickly. Apart from these, fatty fishes are an excellent source of proteins, omega-3s, minerals, vitamins, and fiber. By including these in your diet, you can easily increase your caloric-intake to a huge amount. Moreover, these fishes are a very healthy option to gain weight along with many other health benefits. Some examples of fatty fishes include salmon, mackerel, tuna, herring, etc."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Nuts",
+                                                "src" : "image/diet_moderate/meal5.jpg",
+                                                "content" : "Nuts are an excellent snack to boost your caloric-intake by a great amount. Nuts are loaded with healthy fats i.e. omega-3 & omega-6, which are effective for weight gain. Furthermore, nuts contain proteins, minerals, dietary fibers, and proteins. Consuming a few nuts can easily contain hundreds of calories, which is really good for putting on weight. The best thing about nuts is that they can be eaten as a snack or as a topping on your favorite dishes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Eat 5-6 times a day",
+                                                "src" : "image/diet_moderate/meal6.jpg",
+                                                "content" : "to put on weight quickly, you need to eat 5-6 meals a day. When you eat 5-6 times, you are naturally going to eat lesser food. But you can always add extra calories to every meal to boost your weight gain process. For this purpose, you can add nuts & seeds as a topping on your food. Moreover, you can add other healthy nutrients to each of your meals to keep yourself healthy."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Avoid low-calorie diet",
+                                                "src" : "image/diet_moderate/meal.jpg",
+                                                "content" : "Most of the people around the world tend to eat foods that have low-calorie count. These might include popcorns, starchy carbohydrates, fruits, and vegetables, etc. As the calorie count of these foods is low, you cannot gain weight easily. Thus, you need to replace these with high-calorie healthy foods. These foods include butter, cheese, nuts, eggs, and full-fat dairy products, etc."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_5" : [
+                        {
+                            "Video" : [
+                                {
+                                    "id" : "md_video05",
+                                    "link": "https://youtu.be/oR4iY29PBjA",
+                                    "title":"5. Stiff Leg Deadlifts",
+                                    "content": "Muscles targeted: Legs, back, core. Instructions: Hold a barbell with a neutral/shoulder width, overhand grip. Before you start the movement, you should be standing with a hip width foot stance, an upright torso, and a slight bend in the knees. From here, without increasing the bend in your knees, lower the barbell down the front of the legs. This is achieved by pushing your hips backwards, keeping a neutral spine. Once you feel a stretch through your hamstrings, pull back up to starting position. Avoid leaning too far back at the top of the movement – standing up to straight will suffice."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"bla",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Eat calorie-dense foods",
+                                                "src" : "image/diet_moderate/meal1.jpg",
+                                                "content" : "The calorie-dense foods doesn’t refer to the fried and processed foods that people eat due to good taste. Several healthy-calorie dense foods are loaded with healthy fats, vitamins, proteins, & other nutrients. If you want to turn your skinny body into a curvy one, you need to include these foods in your diet. Some examples of calorie-dense foods include meats, fishes, nuts, eggs, etc. All these foods help in filling your body with healthy calories that can be converted into good fats."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Drink calories",
+                                                "src" : "image/diet_moderate/meal2.jpg",
+                                                "content" : "To put on weight, you can always prepare calorie-filled drinks & smoothies at home. For most of us, drinking is much easier and convenient than eating healthy foods. Thus, you can use high-calorie fruits & vegetables to prepare smoothies at home. To add more calories, you can use seeds & nuts as a topping. This will help you to consume high amounts of calories without compromising your health. Also, these homemade healthy smoothies are much better than processed & packed health drinks."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Meats",
+                                                "src" : "image/diet_moderate/meal3.jpg",
+                                                "content" : "Meats are an amazing source of protein, iron, healthy fats, vitamins, and zinc, etc. These are great for building muscles & putting on weight. Moreover, these are one of the healthiest calorie-rich foods in the world. By including these in your diet, you can easily gain weight & get into your desired body shape. Some examples of the best meats for weight gain include red meat, chicken, pork, etc. If you are looking to build more of a muscular body, then go for lean meats."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Fatty fishes",
+                                                "src" : "image/diet_moderate/meal4.jpg",
+                                                "content" : "Fatty fishes are loaded with healthy fats & calories to help you gain weight quickly. Apart from these, fatty fishes are an excellent source of proteins, omega-3s, minerals, vitamins, and fiber. By including these in your diet, you can easily increase your caloric-intake to a huge amount. Moreover, these fishes are a very healthy option to gain weight along with many other health benefits. Some examples of fatty fishes include salmon, mackerel, tuna, herring, etc."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Nuts",
+                                                "src" : "image/diet_moderate/meal5.jpg",
+                                                "content" : "Nuts are an excellent snack to boost your caloric-intake by a great amount. Nuts are loaded with healthy fats i.e. omega-3 & omega-6, which are effective for weight gain. Furthermore, nuts contain proteins, minerals, dietary fibers, and proteins. Consuming a few nuts can easily contain hundreds of calories, which is really good for putting on weight. The best thing about nuts is that they can be eaten as a snack or as a topping on your favorite dishes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Eat 5-6 times a day",
+                                                "src" : "image/diet_moderate/meal6.jpg",
+                                                "content" : "to put on weight quickly, you need to eat 5-6 meals a day. When you eat 5-6 times, you are naturally going to eat lesser food. But you can always add extra calories to every meal to boost your weight gain process. For this purpose, you can add nuts & seeds as a topping on your food. Moreover, you can add other healthy nutrients to each of your meals to keep yourself healthy."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Avoid low-calorie diet",
+                                                "src" : "image/diet_moderate/meal.jpg",
+                                                "content" : "Most of the people around the world tend to eat foods that have low-calorie count. These might include popcorns, starchy carbohydrates, fruits, and vegetables, etc. As the calorie count of these foods is low, you cannot gain weight easily. Thus, you need to replace these with high-calorie healthy foods. These foods include butter, cheese, nuts, eggs, and full-fat dairy products, etc."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_6" : [
+                        {
+                            "Video" : [
+                                {
+                                    "id" : "md_video06",
+                                    "link": "https://youtu.be/3iicTn8SHs0",
+                                    "title":"6. Standing Barbell Press",
+                                    "content": "Muscles targeted: Arms, core. Instructions: Stand with your feet shoulder width apart, holding a barbell on your chest. Your grip should be over shoulder with apart and your wrists should be comfortable. Keeping your core engaged, push the barbell up overhead. Inhale as you lower the barbell back down to your chest. People tend to push/flex their hips back to help them push the weight up overhead. This shifts a lot of the load from your shoulders to your lower back. Not only does this make the exercise less effective, but it also sets you up for injury. Before pushing the barbell overhead, ensure your core is engaged and your hips are tucked under to protect your lower back."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"bla",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Eat calorie-dense foods",
+                                                "src" : "image/diet_moderate/meal1.jpg",
+                                                "content" : "The calorie-dense foods doesn’t refer to the fried and processed foods that people eat due to good taste. Several healthy-calorie dense foods are loaded with healthy fats, vitamins, proteins, & other nutrients. If you want to turn your skinny body into a curvy one, you need to include these foods in your diet. Some examples of calorie-dense foods include meats, fishes, nuts, eggs, etc. All these foods help in filling your body with healthy calories that can be converted into good fats."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Drink calories",
+                                                "src" : "image/diet_moderate/meal2.jpg",
+                                                "content" : "To put on weight, you can always prepare calorie-filled drinks & smoothies at home. For most of us, drinking is much easier and convenient than eating healthy foods. Thus, you can use high-calorie fruits & vegetables to prepare smoothies at home. To add more calories, you can use seeds & nuts as a topping. This will help you to consume high amounts of calories without compromising your health. Also, these homemade healthy smoothies are much better than processed & packed health drinks."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Meats",
+                                                "src" : "image/diet_moderate/meal3.jpg",
+                                                "content" : "Meats are an amazing source of protein, iron, healthy fats, vitamins, and zinc, etc. These are great for building muscles & putting on weight. Moreover, these are one of the healthiest calorie-rich foods in the world. By including these in your diet, you can easily gain weight & get into your desired body shape. Some examples of the best meats for weight gain include red meat, chicken, pork, etc. If you are looking to build more of a muscular body, then go for lean meats."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Fatty fishes",
+                                                "src" : "image/diet_moderate/meal4.jpg",
+                                                "content" : "Fatty fishes are loaded with healthy fats & calories to help you gain weight quickly. Apart from these, fatty fishes are an excellent source of proteins, omega-3s, minerals, vitamins, and fiber. By including these in your diet, you can easily increase your caloric-intake to a huge amount. Moreover, these fishes are a very healthy option to gain weight along with many other health benefits. Some examples of fatty fishes include salmon, mackerel, tuna, herring, etc."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Nuts",
+                                                "src" : "image/diet_moderate/meal5.jpg",
+                                                "content" : "Nuts are an excellent snack to boost your caloric-intake by a great amount. Nuts are loaded with healthy fats i.e. omega-3 & omega-6, which are effective for weight gain. Furthermore, nuts contain proteins, minerals, dietary fibers, and proteins. Consuming a few nuts can easily contain hundreds of calories, which is really good for putting on weight. The best thing about nuts is that they can be eaten as a snack or as a topping on your favorite dishes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Eat 5-6 times a day",
+                                                "src" : "image/diet_moderate/meal6.jpg",
+                                                "content" : "to put on weight quickly, you need to eat 5-6 meals a day. When you eat 5-6 times, you are naturally going to eat lesser food. But you can always add extra calories to every meal to boost your weight gain process. For this purpose, you can add nuts & seeds as a topping on your food. Moreover, you can add other healthy nutrients to each of your meals to keep yourself healthy."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Avoid low-calorie diet",
+                                                "src" : "image/diet_moderate/meal.jpg",
+                                                "content" : "Most of the people around the world tend to eat foods that have low-calorie count. These might include popcorns, starchy carbohydrates, fruits, and vegetables, etc. As the calorie count of these foods is low, you cannot gain weight easily. Thus, you need to replace these with high-calorie healthy foods. These foods include butter, cheese, nuts, eggs, and full-fat dairy products, etc."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "Day_7" : [
+                        {
+                            "Video" : [
+                                {
+                                    "id" : "md_video07",
+                                    "link": "https://youtu.be/WFfx6IC7CUc",
+                                    "title":"7. Russian Twists",
+                                    "content": "Muscles targeted: Core, arms. Instructions: Hold a dumbbell between your hands whilst sitting on the ground with knees bent and your ankles crossed. Lift your ankles off the ground so you’re balancing on your tail bone. Avoid rounding your back. Twist through your core to move the dumbbell from the left to right of your body. Try to keep your torso and legs still, whilst you twist through the center of your body. If your legs are whipping from side to side, chances are you’re twisting with momentum rather than using your abdominal muscles. Note: The repetitions, in this case, refer to each side. So, 10 reps = 20 Russian twists and 12 reps = 24 Russian twists."
+                                }
+                            ],
+                            "Diet" :[
+                                {
+                                    "id":"first",
+                                    "content" : [
+                                        {
+                                            "section" : {
+                                                "title" : "Eat calorie-dense foods",
+                                                "src" : "image/diet_moderate/meal1.jpg",
+                                                "content" : "The calorie-dense foods doesn’t refer to the fried and processed foods that people eat due to good taste. Several healthy-calorie dense foods are loaded with healthy fats, vitamins, proteins, & other nutrients. If you want to turn your skinny body into a curvy one, you need to include these foods in your diet. Some examples of calorie-dense foods include meats, fishes, nuts, eggs, etc. All these foods help in filling your body with healthy calories that can be converted into good fats."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Drink calories",
+                                                "src" : "image/diet_moderate/meal2.jpg",
+                                                "content" : "To put on weight, you can always prepare calorie-filled drinks & smoothies at home. For most of us, drinking is much easier and convenient than eating healthy foods. Thus, you can use high-calorie fruits & vegetables to prepare smoothies at home. To add more calories, you can use seeds & nuts as a topping. This will help you to consume high amounts of calories without compromising your health. Also, these homemade healthy smoothies are much better than processed & packed health drinks."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Meats",
+                                                "src" : "image/diet_moderate/meal3.jpg",
+                                                "content" : "Meats are an amazing source of protein, iron, healthy fats, vitamins, and zinc, etc. These are great for building muscles & putting on weight. Moreover, these are one of the healthiest calorie-rich foods in the world. By including these in your diet, you can easily gain weight & get into your desired body shape. Some examples of the best meats for weight gain include red meat, chicken, pork, etc. If you are looking to build more of a muscular body, then go for lean meats."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Fatty fishes",
+                                                "src" : "image/diet_moderate/meal4.jpg",
+                                                "content" : "Fatty fishes are loaded with healthy fats & calories to help you gain weight quickly. Apart from these, fatty fishes are an excellent source of proteins, omega-3s, minerals, vitamins, and fiber. By including these in your diet, you can easily increase your caloric-intake to a huge amount. Moreover, these fishes are a very healthy option to gain weight along with many other health benefits. Some examples of fatty fishes include salmon, mackerel, tuna, herring, etc."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Nuts",
+                                                "src" : "image/diet_moderate/meal5.jpg",
+                                                "content" : "Nuts are an excellent snack to boost your caloric-intake by a great amount. Nuts are loaded with healthy fats i.e. omega-3 & omega-6, which are effective for weight gain. Furthermore, nuts contain proteins, minerals, dietary fibers, and proteins. Consuming a few nuts can easily contain hundreds of calories, which is really good for putting on weight. The best thing about nuts is that they can be eaten as a snack or as a topping on your favorite dishes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Eat 5-6 times a day",
+                                                "src" : "image/diet_moderate/meal6.jpg",
+                                                "content" : "to put on weight quickly, you need to eat 5-6 meals a day. When you eat 5-6 times, you are naturally going to eat lesser food. But you can always add extra calories to every meal to boost your weight gain process. For this purpose, you can add nuts & seeds as a topping on your food. Moreover, you can add other healthy nutrients to each of your meals to keep yourself healthy."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Avoid low-calorie diet",
+                                                "src" : "image/diet_moderate/meal.jpg",
+                                                "content" : "Most of the people around the world tend to eat foods that have low-calorie count. These might include popcorns, starchy carbohydrates, fruits, and vegetables, etc. As the calorie count of these foods is low, you cannot gain weight easily. Thus, you need to replace these with high-calorie healthy foods. These foods include butter, cheese, nuts, eggs, and full-fat dairy products, etc."
+                                            }
+                                        }
+                                    ]
                                 }
                             ]
                         }
@@ -65,64 +491,83 @@
             ]
         }
     ]
-},{
+},
+{
     "ID" : "MD_02",
     "Name" : "Workout moderate for normal body person",
-    "Image" : "Image/Moderate_02",
+    "Image" : "Image/moderate_male/moderate_male02.jpg",
     "Gender": "M",
     "BMI_max": 24.9,
     "BMI_min": 18.5,
     "Route" : [
         {
-            "Time" : 30,
+            "Time" : "Once time a week",
             "Detail" :[
                 {
                     "Day_1" : [
                         {
                             "Video" : [
                                 {
-                                    "id" : "video01",
-                                    "link":"link",
-                                    "title":"Bài tập đầu tiên"
+                                    "id" : "md_video08",
+                                    "link":"https://youtu.be/0TIvQel-LBA",
+                                    "title":"Low Impact Total Body Cardio Workout in Your Own Home!",
+                                    "content": "The PhysioTrainer CXT Recumbent Cross Trainer is a high quality and affordable in-home Physical Therapy solution designed specifically for Seniors and the Active Aging population. Enjoy a low impact total body cardio workout in a safe and supportive seated position from the comfort of your own home! The synchronized arm and leg cycling motion is ergonomically correct and provides low impact for your knees, hips and back while burning more calories than on a standard recumbent cycle."
                                 }
                             ],
                             "Diet" :[
                                 {
-                                    "id":"bla",
+                                    "id":"first",
                                     "content" : [
                                         {
                                             "section" : {
-                                                "title" : "Breakfast",
-                                                "src" : ["link"],
-                                                "content" : "bla bla"
+                                                "title" : "Eat calorie-dense foods",
+                                                "src" : "image/diet_moderate/meal1.jpg",
+                                                "content" : "The calorie-dense foods doesn’t refer to the fried and processed foods that people eat due to good taste. Several healthy-calorie dense foods are loaded with healthy fats, vitamins, proteins, & other nutrients. If you want to turn your skinny body into a curvy one, you need to include these foods in your diet. Some examples of calorie-dense foods include meats, fishes, nuts, eggs, etc. All these foods help in filling your body with healthy calories that can be converted into good fats."
                                             }
                                         },
                                         {
                                             "section" : {
-                                                "title" : "Lunch",
-                                                "src" : ["link"],
-                                                "content" : "bla bla"
+                                                "title" : "Drink calories",
+                                                "src" : "image/diet_moderate/meal2.jpg",
+                                                "content" : "To put on weight, you can always prepare calorie-filled drinks & smoothies at home. For most of us, drinking is much easier and convenient than eating healthy foods. Thus, you can use high-calorie fruits & vegetables to prepare smoothies at home. To add more calories, you can use seeds & nuts as a topping. This will help you to consume high amounts of calories without compromising your health. Also, these homemade healthy smoothies are much better than processed & packed health drinks."
                                             }
                                         },
                                         {
                                             "section" : {
-                                                "title" : "Dinner",
-                                                "src" : ["link"],
-                                                "content" : "bla bla"
+                                                "title" : "Meats",
+                                                "src" : "image/diet_moderate/meal3.jpg",
+                                                "content" : "Meats are an amazing source of protein, iron, healthy fats, vitamins, and zinc, etc. These are great for building muscles & putting on weight. Moreover, these are one of the healthiest calorie-rich foods in the world. By including these in your diet, you can easily gain weight & get into your desired body shape. Some examples of the best meats for weight gain include red meat, chicken, pork, etc. If you are looking to build more of a muscular body, then go for lean meats."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Fatty fishes",
+                                                "src" : "image/diet_moderate/meal4.jpg",
+                                                "content" : "Fatty fishes are loaded with healthy fats & calories to help you gain weight quickly. Apart from these, fatty fishes are an excellent source of proteins, omega-3s, minerals, vitamins, and fiber. By including these in your diet, you can easily increase your caloric-intake to a huge amount. Moreover, these fishes are a very healthy option to gain weight along with many other health benefits. Some examples of fatty fishes include salmon, mackerel, tuna, herring, etc."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Nuts",
+                                                "src" : "image/diet_moderate/meal5.jpg",
+                                                "content" : "Nuts are an excellent snack to boost your caloric-intake by a great amount. Nuts are loaded with healthy fats i.e. omega-3 & omega-6, which are effective for weight gain. Furthermore, nuts contain proteins, minerals, dietary fibers, and proteins. Consuming a few nuts can easily contain hundreds of calories, which is really good for putting on weight. The best thing about nuts is that they can be eaten as a snack or as a topping on your favorite dishes."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Eat 5-6 times a day",
+                                                "src" : "image/diet_moderate/meal6.jpg",
+                                                "content" : "to put on weight quickly, you need to eat 5-6 meals a day. When you eat 5-6 times, you are naturally going to eat lesser food. But you can always add extra calories to every meal to boost your weight gain process. For this purpose, you can add nuts & seeds as a topping on your food. Moreover, you can add other healthy nutrients to each of your meals to keep yourself healthy."
+                                            }
+                                        },
+                                        {
+                                            "section" : {
+                                                "title" : "Avoid low-calorie diet",
+                                                "src" : "image/diet_moderate/meal.jpg",
+                                                "content" : "Most of the people around the world tend to eat foods that have low-calorie count. These might include popcorns, starchy carbohydrates, fruits, and vegetables, etc. As the calorie count of these foods is low, you cannot gain weight easily. Thus, you need to replace these with high-calorie healthy foods. These foods include butter, cheese, nuts, eggs, and full-fat dairy products, etc."
                                             }
                                         }
                                     ]
-                                }
-                            ]
-                        }
-                    ],
-                    "Day_2" : [
-                        {
-                            "Video" : [
-                                {
-                                    "id" : "video01",
-                                    "link":"link",
-                                    "title":"Bài tập đầu tiên"
                                 }
                             ]
                         }
@@ -135,7 +580,7 @@
 {
     "ID" : "MD_03",
     "Name" : "Workout moderate for overweight person",
-    "Image" : "Image/Moderate_03",
+    "Image" : "Image/moderate_male/moderate_male03.jpg",
     "Gender": "M",
     "BMI_max": 29.9,
     "BMI_min": 25,
@@ -148,7 +593,7 @@
                         {
                             "Video" : [
                                 {
-                                    "id" : "video01",
+                                    "id" : "md_video10",
                                     "link":"link",
                                     "title":"Bài tập đầu tiên"
                                 }
@@ -187,7 +632,7 @@
                         {
                             "Video" : [
                                 {
-                                    "id" : "video01",
+                                    "id" : "md_video11",
                                     "link":"link",
                                     "title":"Bài tập đầu tiên"
                                 }
@@ -202,7 +647,7 @@
 {
     "ID" : "MD_04",
     "Name" : "Workout moderate for obese person",
-    "Image" : "Image/Moderate_04",
+    "Image" : "Image/moderate_male/moderate_male04.jpg",
     "Gender": "M",
     "BMI_max": 100,
     "BMI_min": 29.9,
@@ -215,7 +660,7 @@
                         {
                             "Video" : [
                                 {
-                                    "id" : "video01",
+                                    "id" : "md_video012",
                                     "link":"link",
                                     "title":"Bài tập đầu tiên"
                                 }
@@ -254,7 +699,7 @@
                         {
                             "Video" : [
                                 {
-                                    "id" : "video01",
+                                    "id" : "md_video013",
                                     "link":"link",
                                     "title":"Bài tập đầu tiên"
                                 }
@@ -267,9 +712,9 @@
     ]
 },
 {
-    "ID" : "MD_01",
+    "ID" : "MDM_01",
     "Name" : "Workout moderate for skinny person",
-    "Image" : "Image/Moderate_01",
+    "Image" : "Image/moderate_female/moderate_01.webp",
     "Gender": "FM",
     "BMI_max": 18.5,
     "BMI_min": 0,
@@ -333,9 +778,9 @@
         }
     ]
 },{
-    "ID" : "MD_02",
+    "ID" : "MDM_02",
     "Name" : "Workout moderate for normal body person",
-    "Image" : "Image/Moderate_02",
+    "Image" : "Image/moderate_female/moderate_02.webp",
     "Gender": "FM",
     "BMI_max": 24.9,
     "BMI_min": 18.5,
@@ -400,9 +845,9 @@
     ]
 },
 {
-    "ID" : "MD_03",
+    "ID" : "MDM_03",
     "Name" : "Workout moderate for overweight person",
-    "Image" : "Image/Moderate_03",
+    "Image" : "Image/moderate_female/moderate_03.webp",
     "Gender": "FM",
     "BMI_max": 29.9,
     "BMI_min": 25,
@@ -467,9 +912,9 @@
     ]
 },
 {
-    "ID" : "MD_04",
+    "ID" : "MDM_04",
     "Name" : "Workout moderate for obese person",
-    "Image" : "Image/Moderate_04",
+    "Image" : "Image/moderate_female/moderate_05.jpg",
     "Gender": "FM",
     "BMI_max": 100,
     "BMI_min": 29.9,
